@@ -11,6 +11,8 @@ IA368v DD 5th class ― Fine tuning a Causal Language Model (CLM)
 
 ## Final results
 
+Here are the results for the executed trainings:
+
 |    | eval loss | perplexity |
 |----|:---: |:---: |:---: |
 | 512-byte chunks | 1.981 | 7.251 |
