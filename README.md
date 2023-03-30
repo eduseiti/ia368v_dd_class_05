@@ -18,7 +18,7 @@ Here are the results for the executed trainings:
 | 512-byte chunks | 1.981 | 7.251 |
 | 2048-byte chunks | 1.242 | 3.462 |
 | 2048-byte chunks<br />from scratch | 1.361 | 3.900 |
-| 2048-byte chunks<br />not trained | ??? | ??? |
+| 2048-byte chunks<br />not trained | 11.025 | 61405.942 |
 
 
 Check [here a presentation](https://docs.google.com/presentation/d/1x6j2YxTE9TBakxe6aTPegLxCDhYtQ5p4QrXjMwpQymI/edit?usp=share_link) commenting this exercise resolution.
